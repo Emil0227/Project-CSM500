@@ -1,11 +1,16 @@
-numpy
-pandas
-matplotlib
-seaborn
-pillow
-tqdm
-scikit-learn
-pyyaml
-tensorboard
-jupyterlab
-ipykernel
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.4.1+cu124
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+tqdm==4.70.1
+pandas==3.0.6
+seaborn==0.13.2
+scikit-learn==1.9.1
+tensorboard==2.21.0
+networkx==3.2.1
+pillow==10.2.0
+jupyterlab==4.2.5
+ipykernel==6.29.5
+ipywidgets==8.1.5
