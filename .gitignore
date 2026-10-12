@@ -8,7 +8,6 @@ checkpoints/
 
 *.pt
 *.pth
-*.ckpt
 *.safetensors
 
 .env
