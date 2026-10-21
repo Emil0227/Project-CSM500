@@ -2,7 +2,6 @@
 
 This repository contains the code for the CSM500 project investigating how explicit spatial representations affect a conditional diffusion planner on 64 × 64 mazes. The experiments compare raw occupancy information with directional, boundary-distance and topological landmark features, alongside a fixed random-channel control, using two U-Net capacities.
 
-**Pretrained checkpoints are not included. Train a model before running its inference and evaluation cells.**
 
 ## Repository contents
 
